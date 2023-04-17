@@ -1,0 +1,23 @@
+{
+  "name": "230416_prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "madowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyujin324/230416_prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyujin324/230416_prac/issues"
+  },
+  "homepage": "https://github.com/hanyujin324/230416_prac#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^3.1.0"
+  }
+}
